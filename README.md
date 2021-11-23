@@ -4,7 +4,6 @@ This dataset includes information of 12 months worth of sales data. The data con
 ![Sales_Analysis](/images/Sales-Analysis.jpg)
 
 ## Tasks
-### Sales Analysis
 - What was the best month for sales? How much was earned that month?
 - What city sold the most product?
 - What time should we display advertisemens to maximize the likelihood of customer’s buying product?
